@@ -1,6 +1,6 @@
 import React from "react";
-import ExploreBtn from "./components/ExploreBtn";
-import EventCard from "./components/EventCard";
+import ExploreBtn from "../components/ExploreBtn";
+import EventCard from "../components/EventCard";
 import { events } from "@/lib/constants";
 
 const Home = () => {
